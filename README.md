@@ -1,6 +1,6 @@
 # Interactive Devices
 
-## Assignements 
+## Assignments 
 [Assignment 1](artifacts/assignment1/)
 
 [Assignment 2](artifacts/assignment2/)
