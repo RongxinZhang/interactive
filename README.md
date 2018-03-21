@@ -9,6 +9,8 @@
 
 [Assignment 4](artifacts/assignment4/)
 
+[Assignment 5](artifacts/assignment5/)
+
 ## Labs
 [1: Chatbot with validation!](artifacts/lab1/)
 
