@@ -19,3 +19,5 @@
 [3: Laser Cut with Superman!!](artifacts/lab3/)
 
 [4: Arduino!!](artifacts/lab4/)
+
+[5: Modules!!](artifacts/lab5/)
