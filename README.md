@@ -21,3 +21,5 @@
 [4: Arduino!!](artifacts/lab4/)
 
 [5: Modules!!](artifacts/lab5/)
+
+[6: Etch it!](artifacts/lab6/)
