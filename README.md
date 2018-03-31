@@ -1,19 +1,19 @@
 # Interactive Devices
 
 ## Assignments 
-[Assignment 1](artifacts/assignment1/) Great Interactive Devices
+1. [Great Interactive Devices](artifacts/assignment1/) 
 
-[Assignment 2](artifacts/assignment2/) Bottoms Up! Tops Down! Narrow It!
+2. [Bottoms Up! Tops Down! Narrow It!](artifacts/assignment2/)
 
-[Assignment 3](artifacts/assignment3/) 5 Ideas for Lab2
+3. [5 Ideas for Lab](artifacts/assignment3/)
 
-[Assignment 4](artifacts/assignment4/) 10 Things You Can Do With Stopwatch / Timer
+4. [10 Things You Can Do With Stopwatch / Timer](artifacts/assignment4/) 
 
-[Assignment 5](artifacts/assignment5/) Verplank Diagram
+5. [Verplank Diagram](artifacts/assignment5/)
 
-[Assignment 6](artifacts/assignment6/) 10 Things You Can Do With Data Logging
+6. [10 Things You Can Do With Data Logging](artifacts/assignment6/)
 
-[Assignment 7](artifacts/assignment7/) Final Project Proposal
+7. [Final Project Proposal](artifacts/assignment7/)
 
 
 ## Labs
