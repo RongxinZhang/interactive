@@ -17,14 +17,14 @@
 
 
 ## Labs
-[1: Chatbot with validation!](artifacts/lab1/)
+1. [Chatbot with validation!](artifacts/lab1/)
 
-[2: Camera that can read text!](artifacts/lab2/)
+2. [Camera that can read text!](artifacts/lab2/)
 
-[3: Laser Cut with Superman!!](artifacts/lab3/)
+3. [Laser Cut with Superman!!](artifacts/lab3/)
 
-[4: Arduino!!](artifacts/lab4/)
+4. [Arduino!!](artifacts/lab4/)
 
-[5: Modules!!](artifacts/lab5/)
+5. [Modules!!](artifacts/lab5/)
 
-[6: Etch it!](artifacts/lab6/)
+6. [Etch it!](artifacts/lab6/)
